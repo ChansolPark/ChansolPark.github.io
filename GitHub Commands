@@ -1,0 +1,10 @@
+로컬 서버 오픈
+bundle exec jekyll serve
+
+로컬 서버 오픈 오류 시
+bundle add webrick
+
+푸쉬하려면
+git add .
+git commit -m "커밋 이름"
+git push

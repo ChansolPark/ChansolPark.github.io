@@ -1,5 +1,5 @@
 ---
-title: "Queue"
+title: "Implement_Queue"
 categories:
   - Implement (구현)
 tags:
@@ -10,11 +10,10 @@ tags:
 직접 구현해본 Queue 클래스
 <br>
 
-class QueueC {
-  <br>
-<br>
+class QueueC 
+{
+  
 private:
-<br>
 
 	// queue 포인터 변수 (동적 할당위한 변수)<br>
 	int* queueArr;
