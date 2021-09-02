@@ -7,10 +7,8 @@ tags:
   - C++
 ---
 
-재귀함수를 이용한 하노이의 탑 구현
-
-<br>
-
+- 재귀함수를 이용한 하노이의 탑 구현
+```C++
 void hanoi(int n, int start, int end, int other)
 {
 
@@ -26,4 +24,5 @@ void hanoi(int n, int start, int end, int other)
     moveCnt++;
 
     hanoi(n - 1, other, end, start);
-	}
+    }
+  ```

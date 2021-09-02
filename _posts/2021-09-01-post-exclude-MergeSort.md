@@ -9,7 +9,7 @@ tags:
 
 직접 구현해본 병합 정렬
 
-<br>
+```C++
 
 int* MergeSort(int nums[], int numsSize)
 {
@@ -112,3 +112,4 @@ int* SortArrays(int* arr1, int arr1Size , int* arr2, int arr2Size)
 	// 배열 리턴
 	return mergeArray;
 }
+```

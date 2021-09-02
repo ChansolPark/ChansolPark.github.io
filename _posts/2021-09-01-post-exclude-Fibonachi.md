@@ -9,7 +9,7 @@ tags:
 
 재귀함수를 이용한 피보나치 값 계산 코드
 
-<br>
+```C++
 
 int fibo(int n1, int n2, int leftNum)
 {
@@ -23,3 +23,4 @@ int fibo(int n1, int n2, int leftNum)
 	
 	return fibo(n2, n1 + n2, leftNum - 1);
 	}
+```

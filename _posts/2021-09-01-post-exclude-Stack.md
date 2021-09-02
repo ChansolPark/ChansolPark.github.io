@@ -9,7 +9,7 @@ tags:
 
 직접 구현해본 Stack 클래스
 
-<br>
+```C++
 
 using namespace std;
 
@@ -88,5 +88,5 @@ public :
         cout << endl;
     }
 };
-
+```
 

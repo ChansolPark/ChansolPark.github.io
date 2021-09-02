@@ -9,8 +9,7 @@ tags:
 
 직접 구현해본 회전된 배열에서의 이진 탐색
 
-<br>
-
+```C++
 #include <iostream>
 
 using namespace std;
@@ -109,3 +108,4 @@ int BinarySearch(int nums[], int findNum, int l, int r)
 		}
 	}
 }
+```C++

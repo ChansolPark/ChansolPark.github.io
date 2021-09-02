@@ -9,7 +9,7 @@ tags:
 
 직접 구현해본 삽입 정렬
 
-<br>
+```C++
 
 void InsertionSort(int nums[])
 
@@ -34,3 +34,4 @@ void InsertionSort(int nums[])
 		}
 	}
 }
+```

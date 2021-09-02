@@ -9,7 +9,8 @@ tags:
 
 직접 구현해본 퀵(로무토) 정렬
 
-<br>
+
+```C++
 
 
 void QuickSort(int nums[], int start, int end)
@@ -61,3 +62,4 @@ int partition(int nums[], int left, int pivot)
 
 	return pivot;
 }
+```

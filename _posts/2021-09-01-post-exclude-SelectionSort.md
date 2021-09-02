@@ -9,6 +9,7 @@ tags:
 
 직접 구현해본 선택 정렬
 
+```C++
 <br>
 
 void SelectionSort(int nums[])
@@ -39,3 +40,4 @@ void SelectionSort(int nums[])
 		}
 	}
 }
+```
