@@ -11,8 +11,7 @@ tags:
 랜덤 미로 생성 코드
 
 <br>
-``` C
-
+```C
 #define _CRT_SECURE_NO_WARNINGS
 #define MAX_STACK_SIZE 500
 
@@ -21,7 +20,6 @@ tags:
 #include <Windows.h>                               
 #include <process.h>
 #include <time.h>
-
 
 int t_set = 0;
 
@@ -407,4 +405,6 @@ POINT Pop()
 		return stack[top--];
 }
 
+
 ```
+
