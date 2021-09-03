@@ -7,9 +7,13 @@ tags:
   - C++
 ---
 
+<h1>
+2630 : 색종이 만들기
+</h1>
+
 Link : https://www.acmicpc.net/problem/2630
 
-
+<br>
 풀이 코드
 
 ```C++
