@@ -1,15 +1,14 @@
 ---
-title: "Algorithm_Fibonachi"
+title: "Fibonachi"
 categories:
-  - Algorithm
+  - Recursive
 tags:
-  - recursion Algorithm
   - C++
 ---
 
 재귀함수를 이용한 피보나치 값 계산 코드
 
-```C++
+```cpp
 
 int fibo(int n1, int n2, int leftNum)
 {

@@ -1,7 +1,7 @@
 ---
-title: "Implement_BubbleSort"
+title: "BubbleSort"
 categories:
-  - Implement (구현)
+  - Sort
 tags:
   - Sort Algorithm
   - C++
@@ -9,7 +9,7 @@ tags:
 
 직접 구현해본 버블 정렬
 
-<br>
+```cpp
 
 void BubbleSort(int nums[])
 
@@ -28,3 +28,4 @@ void BubbleSort(int nums[])
 		}
 	}
 }
+```

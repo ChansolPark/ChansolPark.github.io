@@ -1,7 +1,7 @@
 ---
 title: "Create Paper (2630)"
 categories:
-  - Backjoon Algorithm
+  - DivideConquer
 tags:
   - Divide and conquer algorithm
   - C++
@@ -16,7 +16,7 @@ Link : https://www.acmicpc.net/problem/2630
 <br>
 풀이 코드
 
-```C++
+```cpp
 #include <iostream>
 
 using namespace std;

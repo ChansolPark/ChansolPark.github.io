@@ -1,7 +1,7 @@
 ---
-title: "Implement_MergeSort"
+title: "MergeSort"
 categories:
-  - Implement (구현)
+  - Sort
 tags:
   - Sort Algorithm
   - C++
@@ -9,7 +9,7 @@ tags:
 
 직접 구현해본 병합 정렬
 
-```C++
+```cpp
 
 int* MergeSort(int nums[], int numsSize)
 {

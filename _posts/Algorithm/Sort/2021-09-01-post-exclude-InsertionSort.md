@@ -1,7 +1,7 @@
 ---
-title: "Implement_InsertionSort"
+title: "InsertionSort"
 categories:
-  - Implement (구현)
+  - Sort
 tags:
   - Sort Algorithm
   - C++
@@ -9,7 +9,7 @@ tags:
 
 직접 구현해본 삽입 정렬
 
-```C++
+```cpp
 
 void InsertionSort(int nums[])
 

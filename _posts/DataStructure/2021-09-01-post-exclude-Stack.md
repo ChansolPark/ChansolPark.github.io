@@ -1,15 +1,14 @@
 ---
-title: "Implement_Stack"
+title: "Stack"
 categories:
-  - Implement (구현)
+  - DataStructure
 tags:
-  - data structure
   - C++
 ---
 
 직접 구현해본 Stack 클래스
 
-```C++
+```cpp
 
 using namespace std;
 

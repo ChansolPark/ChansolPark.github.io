@@ -1,15 +1,14 @@
 ---
-title: "Implement_Queue"
+title: "Queue"
 categories:
-  - Implement (구현)
+  - DataStructure
 tags:
-  - data structure
   - C++
 ---
 
 직접 구현해본 Queue 클래스
 
-```C++
+```cpp
 
 class QueueC 
 {

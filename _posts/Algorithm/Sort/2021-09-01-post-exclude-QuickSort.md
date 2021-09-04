@@ -1,7 +1,7 @@
 ---
-title: "Implement_QuickSort"
+title: "QuickSort"
 categories:
-  - Implement (구현)
+  - Sort
 tags:
   - Sort Algorithm
   - C++
@@ -10,7 +10,7 @@ tags:
 직접 구현해본 퀵(로무토) 정렬
 
 
-```C++
+```cpp
 
 
 void QuickSort(int nums[], int start, int end)

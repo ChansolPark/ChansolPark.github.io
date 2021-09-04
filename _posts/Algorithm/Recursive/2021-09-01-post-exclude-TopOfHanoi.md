@@ -1,14 +1,13 @@
 ---
-title: "Algorithm_TopOfHanoi"
+title: "TopOfHanoi"
 categories:
-  - Algorithm
+  - Recursive
 tags:
-  - recursion Algorithm
   - C++
 ---
 
 - 재귀함수를 이용한 하노이의 탑 구현
-```C++
+```cpp
 void hanoi(int n, int start, int end, int other)
 {
 

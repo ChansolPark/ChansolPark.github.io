@@ -1,5 +1,5 @@
 ---
-title: "Implement_BinarySearch (Spined Array)"
+title: "BinarySearch (Spined Array)"
 categories:
   - Implement (구현)
 tags:
@@ -9,7 +9,7 @@ tags:
 
 직접 구현해본 회전된 배열에서의 이진 탐색
 
-```C++
+```cpp
 #include <iostream>
 
 using namespace std;

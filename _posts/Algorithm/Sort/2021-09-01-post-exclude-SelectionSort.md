@@ -1,17 +1,14 @@
 ---
-title: "Implement_SelectionSort"
+title: "SelectionSort"
 categories:
-  - Implement (구현)
+  - Sort
 tags:
-  - Sort Algorithm
   - C++
 ---
 
 직접 구현해본 선택 정렬
 
-```C++
-<br>
-
+```cpp
 void SelectionSort(int nums[])
 {
 	int minIndex = -1;
