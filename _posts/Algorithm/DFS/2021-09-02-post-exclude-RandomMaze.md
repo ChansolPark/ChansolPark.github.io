@@ -7,12 +7,12 @@ tags:
   - C
   - Backtracking
 ---
-
+<br>
 랜덤 미로 생성 코드
 
 - 변수 선언
 
-```C
+```c
 <br>
 #define _CRT_SECURE_NO_WARNINGS
 #define MAX_STACK_SIZE 500
@@ -60,7 +60,7 @@ POINT Pop();
 ```
 
 - 함수 구현
-```C
+```c
 
 int main(void) {
 

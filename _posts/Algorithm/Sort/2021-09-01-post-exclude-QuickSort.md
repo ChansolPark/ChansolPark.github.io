@@ -1,9 +1,8 @@
 ---
-title: "QuickSort"
+title: "QuickSort (Lomuto)"
 categories:
   - Sort
 tags:
-  - Sort Algorithm
   - C++
 ---
 
