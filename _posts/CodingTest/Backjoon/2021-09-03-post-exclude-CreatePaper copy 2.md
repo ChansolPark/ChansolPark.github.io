@@ -1,7 +1,7 @@
 ---
 title: "Create Paper (2630)"
 categories:
-  - DivideConquer
+  - Backjoon
 tags:
   - Divide and conquer algorithm
   - C++
