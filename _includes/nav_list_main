@@ -41,6 +41,13 @@
             </ul>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "Encryption" %}
+                        <li><a href="/categories/Encryption" class="">Encryption ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "Recursive" %}
                         <li><a href="/categories/Recursive" class="">Recursive ({{category[1].size}})</a></li>
                     {% endif %}
@@ -51,15 +58,15 @@
             <span class="nav__sub-title">CodingTest</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "BinarySearch" %}
-                        <li><a href="/categories/BinarySearch" class="">BinarySearch ({{category[1].size}})</a></li>
+                    {% if category[0] == "Backjoon" %}
+                        <li><a href="/categories/Backjoon" class="">Backjoon ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "DivideConquer" %}
-                        <li><a href="/categories/DivideConquer" class="">DivideConquer ({{category[1].size}})</a></li>
+                    {% if category[0] == "Kakao" %}
+                        <li><a href="/categories/Kakao" class="">Kakao ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

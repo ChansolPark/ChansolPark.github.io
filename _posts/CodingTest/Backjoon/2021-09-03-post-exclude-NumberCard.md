@@ -1,7 +1,7 @@
 ---
 title: "NumberCard 2"
 categories:
-  - BinarySearch
+  - Backjoon
 tags:
   - BinarySearch algorithm
   - C++
