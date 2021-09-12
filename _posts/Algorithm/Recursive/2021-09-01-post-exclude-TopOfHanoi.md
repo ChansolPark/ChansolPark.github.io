@@ -5,7 +5,7 @@ categories:
 tags:
   - C++
 ---
-
+<br>
 - 재귀함수를 이용한 하노이의 탑 구현
 ```cpp
 void hanoi(int n, int start, int end, int other)

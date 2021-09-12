@@ -3,10 +3,9 @@ title: "MergeSort"
 categories:
   - Sort
 tags:
-  - Sort Algorithm
   - C++
 ---
-
+<br>
 직접 구현해본 병합 정렬
 
 ```cpp

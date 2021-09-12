@@ -1,4 +1,4 @@
-로컬 서버 오픈
+ 로컬 서버 오픈
 bundle exec jekyll serve
 
 로컬 서버 오픈 오류 시

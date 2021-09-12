@@ -3,10 +3,9 @@ title: "BubbleSort"
 categories:
   - Sort
 tags:
-  - Sort Algorithm
   - C++
 ---
-
+<br>
 직접 구현해본 버블 정렬
 
 ```cpp
