@@ -1,7 +1,7 @@
 ---
 title: "Create Random Maze"
 categories:
-  - Algorithm (구현)
+  - Algorithm
 tags:
   - DFS Algorithm
   - C
