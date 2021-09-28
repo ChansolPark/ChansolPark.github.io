@@ -1,7 +1,7 @@
 ---
 title: "BFS"
 categories:
-  - Algorithm
+  - Search
 tags:
   - Search Algorithm
 ---

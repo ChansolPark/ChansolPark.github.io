@@ -35,6 +35,15 @@
 
 
         <span class="nav__sub-title">Algorithm</span>
+
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Dynamic" %}
+                        <li><a href="/categories/Dynamic" class="">Dynamic ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Sort" %}
@@ -42,6 +51,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Hash" %}
@@ -49,6 +59,7 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Encryption" %}
@@ -56,10 +67,19 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Recursive" %}
                         <li><a href="/categories/Recursive" class="">Recursive ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Search" %}
+                        <li><a href="/categories/Search" class="">Search ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>

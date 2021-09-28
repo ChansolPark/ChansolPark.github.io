@@ -1,7 +1,7 @@
 ---
 title: "Dynamic_Programming"
 categories:
-  - Algorithm
+  - Dynamic
 tags:
   - Dynamic_Programming
 ---
