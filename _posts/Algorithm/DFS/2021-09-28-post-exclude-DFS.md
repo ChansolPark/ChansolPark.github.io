@@ -1,7 +1,7 @@
 ---
 title: "DFS"
 categories:
-  - Algorithm
+  - Search
 tags:
   - Search Algorithm
 ---
