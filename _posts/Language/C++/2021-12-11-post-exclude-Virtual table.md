@@ -34,6 +34,9 @@ Virtual table 이란
 
 
  - 비 가상 함수라면 다음과 같은 코드의 Speak 함수의 결과 값은 이럴 것이다. 
+  
+<br>
+
 ```c++
 class Animal
 {
@@ -55,8 +58,12 @@ void main()
   A->Speak(); // Speaking..
 }
 ```
+  
+<br>
 
 - 하지만 가상 함수라면 Speak 함수의 결과 값은 다를 것이다.
+  
+<br>
 
 ```c++
 class Animal
@@ -79,6 +86,8 @@ void main()
   A->Speak(); // Meow !
 }
 ```
+  
+<br>
 
 결과 값이 달라지는 이유는 위에서 설명했듯 객체가 생성될때 해당 클래스의 가상테이블의 주소를 같이 저장하는데,
 
