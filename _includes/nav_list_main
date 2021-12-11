@@ -36,6 +36,13 @@
         <span class="nav__sub-title">Language)</span>
             <ul>
                 {% for category in site.categories %}
+                    {% if category[0] == "C++" %}
+                        <li><a href="/categories/C++" class="">C++ ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
                     {% if category[0] == "CSharp" %}
                         <li><a href="/categories/CSharp" class="">CSharp ({{category[1].size}})</a></li>
                     {% endif %}
