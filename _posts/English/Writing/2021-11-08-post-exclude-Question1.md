@@ -1,7 +1,7 @@
 ---
-title: "Question1"
+title: "Q1) about living in Atlanta"
 categories:
-  - English
+  - English_Writing
 tags:
 ---
 <br>
@@ -50,7 +50,7 @@ Thank's For Reading My Letter.
 
 
 <h2>
-ATo_Korean.
+ATo_K.
 </h2>
 
 제가 미국에 있을때 가장 좋아한 부분은 아마 홈파티 인거 같습니다. 
@@ -66,12 +66,6 @@ ATo_Korean.
 미국의 문화를 사랑하게 되었습니다 !
 
 제 글을 읽어 주셔서 감사드립니다. 
-
-
-<h2>
-Update_A. 
-</h2>
-
 
 
 

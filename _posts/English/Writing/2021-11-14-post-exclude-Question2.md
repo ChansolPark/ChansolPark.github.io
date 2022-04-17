@@ -1,7 +1,7 @@
 ---
-title: "Question2"
+title: "Q2) Crazy Part Of Korean History"
 categories:
-  - English
+  - English_Writing
 tags:
 ---
 <br>
@@ -109,11 +109,6 @@ ATo_K.
 이 URL에서 더 많은 이야기를 보실 수 있습니다. 
 
 읽어주셔서 감사합니다.
-
-
-<h2>
-Update_A. 
-</h2>
 
 
 

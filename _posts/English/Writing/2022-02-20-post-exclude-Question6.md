@@ -2,7 +2,7 @@
 title: "Q6) What are your thoughts on the upcoming Korean presidential elections"
 
 categories:
-  - English
+  - English_Writing
 tags:
 ---
 <br>
