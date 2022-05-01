@@ -127,8 +127,8 @@
         <span class="nav__sub-title">Books</span>
         <ul>
             {% for category in site.categories %}
-                {% if category[0] == "EffectiveC++" %}
-                    <li><a href="/categories/EffectiveC++" class="">EffectiveC++ ({{category[1].size}})</a></li>
+                {% if category[0] == "EffectiveCpp" %}
+                    <li><a href="/categories/EffectiveCpp" class="">EffectiveCpp ({{category[1].size}})</a></li>
                 {% endif %}
             {% endfor %}
         </ul>

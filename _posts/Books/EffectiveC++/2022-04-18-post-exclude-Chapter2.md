@@ -1,7 +1,7 @@
 ---
 title: "Chapter2"
 categories:
-  - EffectiveC++
+  - EffectiveCpp
 tags:
   - C++
 ---
