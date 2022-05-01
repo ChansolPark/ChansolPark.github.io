@@ -181,6 +181,22 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+
+        <span class="nav__sub-title">Developer_Diary)</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "Developer_Diary" %}
+                        <li><a href="/categories/Developer_Diary" class="">Developer_Diary ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "English_Writing" %}
+                        <li><a href="/categories/English_Writing" class="">English_Writing ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
       </li>
   </ul>
 </nav>
