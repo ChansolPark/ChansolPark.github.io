@@ -163,7 +163,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "DirectX12" %}
-                        <li><a href="/categories/DirectX12" class="">DirectX12 ({{category[1].size}})</a></li>
+                        <li><a href="/categories/_DirectX12" class="">DirectX12 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
@@ -172,7 +172,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "Math" %}
-                        <li><a href="/categories/Math" class=""> Math ({{category[1].size}})</a></li>
+                        <li><a href="/categories/_Math" class=""> Math ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
