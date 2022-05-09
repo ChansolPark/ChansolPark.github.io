@@ -16,7 +16,7 @@
         <span class="nav__sub-title">CG)</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "CG_Basic" %}
+                    {% if category[0] == "CG" %}
                         <li><a href="/categories/CG" class="">CG ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
