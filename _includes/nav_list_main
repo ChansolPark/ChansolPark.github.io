@@ -12,6 +12,23 @@
 
         <!--span 태그로 카테고리들을 크게 분류 ex) C/C++/C#-->
 
+
+        <span class="nav__sub-title">CG)</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "CG_Basic" %}
+                        <li><a href="/categories/CG" class="">CG ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "English_Writing" %}
+                        <li><a href="/categories/English_Writing" class="">English_Writing ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+
         <span class="nav__sub-title">Unreal)</span>
             <ul>
                 {% for category in site.categories %}
