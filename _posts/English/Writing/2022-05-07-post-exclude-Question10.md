@@ -17,11 +17,10 @@ Q10) don't your mind, what is the biggest problem, and aslo the biggest positive
 
 <h2>
 A. 
-A good thing is, Korea is best country to play in the world. For example We 
 </h2>
 
-장점 : 
-치안, 놀기 좋다, 실제로 해외여행 여러곳을 가봤지만 우리나라가 놀고먹기에는 최고다.
+A good thing is, Korea is good place to play. For example in korea, We can play until dawn. We can do anything, We can play the game in PC Cafe, We can drink allnight, anything else. It can be because of we feeling safe. When I was in china. My guide told me " You can't go outside from 6PM ". I shocked. And I realize south korea is good place to play. 
 
-단점 : 
-경쟁사회인해 우리나라는 자존심이 썐사람이 많다. 유튜브 댓글만 보아도 강아지를 보며 힐링하는 영상을 예로 들면 
+A Bad thing is.. By the way, I'll pass about korea millitary for man. It's too obvious. second bad thing in korea is competitive society. As you know Korea is famous for its competitive society. So Almost people in korea want to seems be a rich. But I think happiness not equal a money. But for example my mother always told me "I want you be a real estate agent. like me. It's good for earn money" It's really enenoying -_-.. I satisfied about my jop. And I love myself enough. But almost parent generations are only care about money stuff. 
+
+
