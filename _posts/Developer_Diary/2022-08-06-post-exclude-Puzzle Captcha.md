@@ -10,11 +10,6 @@ tags:
 
 Captcha 방식의 퍼즐을 구현하는 작업을 맡게되었다. 랜덤한 이미지에 랜덤한 빈칸이 생기고, 주어진 조각을 해당 빈칸에 Drag & Drop하는 퍼즐이다.
 
-<p>
-    <img src="https://rawgithub.com/ChansolPark/ChansolPark.github.io/blob/3c861e4eff679bffc070a79c7e5746ee47ded827/Resource/Image/CaptchaPuzzle.png" 
-    width="200" height="200" />
-</p>
-
 처음에 든 생각은 UE4에서 제공하는 Drag & Drop 전용 클래스와 함수를 이용해 구현하면 되겠지 ~ 였다. 그러나 기획서의 내용 중 지점이동이라는 요소가 내 발목을 잡았다. 해당 지점이동이란 '퍼즐 조각이 유저의 마우스를 따라 이동하되, N 단위로 이동한다.' 라는 조건이 였는데, 
 내가 아는선에서 UE4에서 제공하는 Drag & Drop은 유저의 마우스를 따라가는 위젯의 이동 규칙을 지정할 방법은 없었다.
 멘붕이 온 나는, 긴 고민과 여러 시도 끝에 해당 기획서에 맞는 Drag & Drop 기능을 손수 제작해야겠다고 판단해 구현을 시작하였다.
