@@ -11,7 +11,7 @@ tags:
 Captcha 방식의 퍼즐을 구현하는 작업을 맡게되었다. 랜덤한 이미지에 랜덤한 빈칸이 생기고, 주어진 조각을 해당 빈칸에 Drag & Drop하는 퍼즐이다.
 
 <p>
-    <img src="https://github.com/ChansolPark/ChansolPark.github.io/blob/master/Resource/Image/CaptchaPuzzle.png" 
+    <img src="https://rawgithub.com/ChansolPark/ChansolPark.github.io/blob/3c861e4eff679bffc070a79c7e5746ee47ded827/Resource/Image/CaptchaPuzzle.png" 
     width="200" height="200" />
 </p>
 
