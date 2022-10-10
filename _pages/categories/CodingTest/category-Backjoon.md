@@ -1,7 +1,6 @@
 ---
 title: "Backjoon"
 layout: archive
-classes : wide
 permalink: categories/Backjoon
 author_profile: true
 sidebar_main: true
