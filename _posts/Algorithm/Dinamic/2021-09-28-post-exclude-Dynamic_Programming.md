@@ -1,5 +1,6 @@
 ---
 title: "Dynamic_Programming"
+classes : wide
 categories:
   - Dynamic
 tags:

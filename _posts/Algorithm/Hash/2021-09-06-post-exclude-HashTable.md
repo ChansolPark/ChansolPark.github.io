@@ -1,5 +1,6 @@
 ---
 title: "HashTable"
+classes : wide
 categories:
   - Hash
 tags:

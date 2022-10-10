@@ -2,6 +2,7 @@
 title: "NumberCard 2"
 categories:
   - Backjoon
+classes : wide
 tags:
   - BinarySearch algorithm
   - C++

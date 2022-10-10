@@ -1,5 +1,6 @@
 ---
 title: "Interval_Scheduling"
+classes : wide
 categories:
   - Greedy
 tags:

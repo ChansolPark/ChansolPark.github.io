@@ -1,5 +1,6 @@
 ---
 title: "HashMap"
+classes : wide
 categories:
   - Hash
 tags:

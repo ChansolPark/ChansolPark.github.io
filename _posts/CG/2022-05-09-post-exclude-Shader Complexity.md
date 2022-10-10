@@ -2,6 +2,7 @@
 title: "Shader Complexity"
 categories:
   - CG
+classes : wide
 tags:
   - Shader Complexity
 ---

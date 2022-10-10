@@ -1,5 +1,6 @@
 ---
 title: "TopOfHanoi"
+classes : wide
 categories:
   - Recursive
 tags:

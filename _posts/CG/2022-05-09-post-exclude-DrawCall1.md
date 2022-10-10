@@ -2,6 +2,7 @@
 title: "DrawCall_1"
 categories:
   - CG
+classes : wide
 tags:
   - DrawCall
 ---

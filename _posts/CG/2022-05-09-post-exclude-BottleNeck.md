@@ -2,6 +2,7 @@
 title: "BottleNeck"
 categories:
   - CG
+classes : wide
 tags:
   - BottleNeck
 ---

@@ -2,6 +2,7 @@
 title: "Q4) first video game memory"
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

@@ -2,6 +2,7 @@
 title: "Coloring Book"
 categories:
   - Kakao
+classes : wide
 tags:
   - DFS algorithm
   - C++

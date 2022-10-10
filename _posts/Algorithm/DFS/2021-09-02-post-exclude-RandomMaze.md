@@ -1,5 +1,6 @@
 ---
 title: "Create Random Maze"
+classes : wide
 categories:
   - Search
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "BinarySearch (Spined Array)"
+classes : wide
 categories:
   - Implement (구현)
 tags:

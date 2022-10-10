@@ -1,5 +1,6 @@
 ---
 title: "SelectionSort"
+classes : wide
 categories:
   - Sort
 tags:

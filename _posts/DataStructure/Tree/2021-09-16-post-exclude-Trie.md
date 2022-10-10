@@ -2,6 +2,7 @@
 title: "Trie"
 categories:
   - Tree
+classes : wide
 tags:
   - C++
 ---

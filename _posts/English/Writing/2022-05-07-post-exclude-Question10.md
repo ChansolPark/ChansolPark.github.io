@@ -3,6 +3,7 @@ title: "Q10) don't your mind, what is the biggest problem, and aslo the biggest 
 
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

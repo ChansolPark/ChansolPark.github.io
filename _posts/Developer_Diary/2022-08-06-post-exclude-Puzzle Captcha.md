@@ -3,6 +3,7 @@ title: Puzzle Captcha
 
 categories:
   - Developer_Diary
+classes : wide
 tags:
 ---
 <br>

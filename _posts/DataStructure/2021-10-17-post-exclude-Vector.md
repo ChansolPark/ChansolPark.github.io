@@ -2,6 +2,7 @@
 title: "Vector"
 categories:
   - DataStructure
+classes : wide
 tags:
   - C++
 ---

@@ -2,6 +2,7 @@
 title: "ReadMe"
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

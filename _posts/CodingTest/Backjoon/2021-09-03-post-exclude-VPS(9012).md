@@ -2,6 +2,7 @@
 title: "VPS(9012)"
 categories:
   - Backjoon
+classes : wide
 tags:
   - C++
 ---

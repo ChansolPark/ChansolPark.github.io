@@ -1,5 +1,6 @@
 ---
 title: "Hash"
+classes : wide
 categories:
   - Hash
 tags:

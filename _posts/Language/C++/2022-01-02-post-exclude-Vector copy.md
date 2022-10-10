@@ -2,6 +2,7 @@
 title: "Vector"
 categories:
   - C++
+classes : wide
 tags:
   - Template STL Library
 ---

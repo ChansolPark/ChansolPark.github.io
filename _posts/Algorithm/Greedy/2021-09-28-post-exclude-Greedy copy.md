@@ -1,5 +1,6 @@
 ---
 title: "Greedy_Algorithm"
+classes : wide
 categories:
   - Greedy
 tags:

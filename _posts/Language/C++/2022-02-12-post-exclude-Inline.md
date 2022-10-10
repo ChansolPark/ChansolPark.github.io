@@ -2,6 +2,7 @@
 title: "Inline"
 categories:
   - C++
+classes : wide
 tags:
 ---
    

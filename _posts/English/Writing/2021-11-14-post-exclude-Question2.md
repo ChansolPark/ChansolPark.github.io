@@ -2,6 +2,7 @@
 title: "Q2) Crazy Part Of Korean History"
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

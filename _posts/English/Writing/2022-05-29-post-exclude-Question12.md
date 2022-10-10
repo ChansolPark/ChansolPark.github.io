@@ -3,6 +3,7 @@ title: "Q12) Write a letter to your future self"
 
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

@@ -1,5 +1,6 @@
 ---
 title: "BubbleSort"
+classes : wide
 categories:
   - Sort
 tags:

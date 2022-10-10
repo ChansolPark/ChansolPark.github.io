@@ -2,6 +2,7 @@
 title: "GC (가비지 콜렉터)"
 categories:
   - CSharp
+classes : wide
 tags:
   - GC (Garbage Collector)
 ---

@@ -2,6 +2,7 @@
 title: "Stack"
 categories:
   - DataStructure
+classes : wide
 tags:
   - C++
 ---

@@ -2,6 +2,7 @@
 title: "Queue"
 categories:
   - DataStructure
+classes : wide
 tags:
   - C++
 ---

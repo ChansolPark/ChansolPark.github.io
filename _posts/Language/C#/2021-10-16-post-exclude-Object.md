@@ -2,6 +2,7 @@
 title: "Object"
 categories:
   - CSharp
+classes : wide
 tags:
   - Object
   - Boxing, UnBoxing

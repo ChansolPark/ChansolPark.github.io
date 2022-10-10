@@ -3,6 +3,7 @@ title: "Q8) Why do you think ammo prices went up in 2020 - 2021"
 
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

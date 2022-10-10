@@ -3,6 +3,7 @@ title: "Q9) How do you fell about famous people behaving poorly in public"
 
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

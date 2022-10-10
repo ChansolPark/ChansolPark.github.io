@@ -2,6 +2,7 @@
 title: "Cut Trees (2805)"
 categories:
   - Backjoon
+classes : wide
 tags:
   - Binary Search
   - C++

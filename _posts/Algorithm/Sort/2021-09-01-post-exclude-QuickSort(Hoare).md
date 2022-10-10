@@ -1,5 +1,6 @@
 ---
 title: "QuickSort (Hoare)"
+classes : wide
 categories:
   - Sort
 tags:

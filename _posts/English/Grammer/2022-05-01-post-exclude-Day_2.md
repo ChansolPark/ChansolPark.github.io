@@ -3,6 +3,7 @@ title: Day_2
 
 categories:
   - English_Grammer
+classes : wide
 tags:
 ---
 <br>

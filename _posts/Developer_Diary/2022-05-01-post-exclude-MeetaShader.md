@@ -3,6 +3,7 @@ title: 쉐이더와 첫 만남
 
 categories:
   - Developer_Diary
+classes : wide
 tags:
 ---
 <br>

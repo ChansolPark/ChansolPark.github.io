@@ -3,6 +3,7 @@ title: 내 인생 첫 최적화 작업_최종
 
 categories:
   - Developer_Diary
+classes : wide
 tags:
 ---
 <br>

@@ -2,6 +2,7 @@
 title: "Replace Bracker"
 categories:
   - Kakao
+classes : wide
 tags:
   - C++
 ---

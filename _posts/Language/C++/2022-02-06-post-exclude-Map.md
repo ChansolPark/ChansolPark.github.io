@@ -2,6 +2,7 @@
 title: "Map"
 categories:
   - C++
+classes : wide
 tags:
   - Template STL Library
 ---

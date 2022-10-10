@@ -2,6 +2,7 @@
 title: "OOP (객체 지향 프로그래밍)"
 categories:
   - CS
+classes : wide
 tags:
   - Object-Oriented Programming
 ---

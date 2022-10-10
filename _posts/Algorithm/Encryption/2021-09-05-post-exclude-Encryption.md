@@ -1,5 +1,6 @@
 ---
 title: "About Encryption"
+classes : wide
 categories:
   - Encryption
 tags:

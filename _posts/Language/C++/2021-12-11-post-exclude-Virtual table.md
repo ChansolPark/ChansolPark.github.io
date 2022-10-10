@@ -2,6 +2,7 @@
 title: "Virtual Table"
 categories:
   - C++
+classes : wide
 tags:
   - Polymorphism
 ---

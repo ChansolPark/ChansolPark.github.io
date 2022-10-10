@@ -2,6 +2,7 @@
 title: "Find_PrimeNumber"
 categories:
   - Math
+classes : wide
 tags:
   - C++
 ---

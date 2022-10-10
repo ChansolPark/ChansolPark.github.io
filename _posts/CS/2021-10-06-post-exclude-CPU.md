@@ -2,6 +2,7 @@
 title: "CPU"
 categories:
   - CS
+classes : wide
 tags:
   - Computer architecture
 ---

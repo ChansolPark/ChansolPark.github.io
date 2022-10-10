@@ -2,6 +2,7 @@
 title: "Q3) In Korea, has there ever been A big food/restaurant controversy?"
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

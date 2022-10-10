@@ -3,6 +3,7 @@ title: "Q11) Do you think that VR is the future of entertainment? Why or why not
 
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

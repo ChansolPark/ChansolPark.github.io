@@ -2,6 +2,7 @@
 title: "Chapter2"
 categories:
   - EffectiveCpp
+classes : wide
 tags:
   - C++
 ---

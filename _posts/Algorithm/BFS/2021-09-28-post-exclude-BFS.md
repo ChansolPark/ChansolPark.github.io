@@ -1,5 +1,6 @@
 ---
 title: "BFS"
+classes : wide
 categories:
   - Search
 tags:

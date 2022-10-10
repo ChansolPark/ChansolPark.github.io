@@ -2,6 +2,7 @@
 title: "Template"
 categories:
   - C++
+classes : wide
 tags:
   - Template
 ---

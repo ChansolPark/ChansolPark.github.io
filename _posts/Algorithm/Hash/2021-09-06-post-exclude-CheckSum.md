@@ -1,5 +1,6 @@
 ---
 title: "CheckSum"
+classes : wide
 categories:
   - Hash
 tags:

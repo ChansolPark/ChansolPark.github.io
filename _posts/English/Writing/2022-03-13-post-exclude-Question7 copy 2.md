@@ -3,6 +3,7 @@ title: "Q7) If your child told you they were gay."
 
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

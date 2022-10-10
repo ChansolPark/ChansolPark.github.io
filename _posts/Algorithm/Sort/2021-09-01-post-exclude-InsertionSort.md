@@ -1,5 +1,6 @@
 ---
 title: "InsertionSort"
+classes : wide
 categories:
   - Sort
 tags:

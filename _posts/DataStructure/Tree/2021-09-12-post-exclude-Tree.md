@@ -2,6 +2,7 @@
 title: "Tree"
 categories:
   - Tree
+classes : wide
 tags:
   - C++
 ---

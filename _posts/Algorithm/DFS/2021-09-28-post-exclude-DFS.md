@@ -1,5 +1,6 @@
 ---
 title: "DFS"
+classes : wide
 categories:
   - Search
 tags:

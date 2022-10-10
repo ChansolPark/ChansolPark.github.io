@@ -1,5 +1,6 @@
 ---
 title: "QuickSort (Lomuto)"
+classes : wide
 categories:
   - Sort
 tags:

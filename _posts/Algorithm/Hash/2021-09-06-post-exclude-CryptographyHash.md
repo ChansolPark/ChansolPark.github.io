@@ -1,5 +1,6 @@
 ---
 title: "Cryptography Hash"
+classes : wide
 categories:
   - Hash
 tags:

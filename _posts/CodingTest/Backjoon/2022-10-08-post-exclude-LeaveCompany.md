@@ -2,6 +2,7 @@
 title: "Leave Company (14501)"
 categories:
   - Backjoon
+classes : wide
 tags:
   - Dynamic Programing
   - C++

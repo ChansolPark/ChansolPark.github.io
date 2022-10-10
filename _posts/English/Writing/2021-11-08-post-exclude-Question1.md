@@ -2,6 +2,7 @@
 title: "Q1) about living in Atlanta"
 categories:
   - English_Writing
+classes : wide
 tags:
 ---
 <br>

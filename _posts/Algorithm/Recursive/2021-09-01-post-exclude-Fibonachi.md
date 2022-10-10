@@ -1,5 +1,6 @@
 ---
 title: "Fibonachi"
+classes : wide
 categories:
   - Recursive
 tags:

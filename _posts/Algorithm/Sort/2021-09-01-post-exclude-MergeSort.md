@@ -1,5 +1,6 @@
 ---
 title: "MergeSort"
+classes : wide
 categories:
   - Sort
 tags:

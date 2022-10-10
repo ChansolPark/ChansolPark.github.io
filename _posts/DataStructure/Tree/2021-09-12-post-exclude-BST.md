@@ -2,6 +2,7 @@
 title: "BST"
 categories:
   - Tree
+classes : wide
 tags:
   - C++
 ---

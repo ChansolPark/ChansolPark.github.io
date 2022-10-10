@@ -2,6 +2,7 @@
 title: "RedBlackTree"
 categories:
   - Tree
+classes : wide
 tags:
   - C++
 ---

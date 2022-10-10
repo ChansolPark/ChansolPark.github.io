@@ -2,6 +2,7 @@
 title: "Virtual Destructor"
 categories:
   - C++
+classes : wide
 tags:
   - Destructor
   - Polymorphism
