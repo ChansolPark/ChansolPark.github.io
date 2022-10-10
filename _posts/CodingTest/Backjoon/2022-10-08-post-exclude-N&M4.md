@@ -1,10 +1,14 @@
 ---
 title: "N & M 4 (15652)"
+
+classes: wide
+
 categories:
   - Backjoon
 tags:
   - Back Tracking
   - C++
+  
 ---
 
 ``` cpp
