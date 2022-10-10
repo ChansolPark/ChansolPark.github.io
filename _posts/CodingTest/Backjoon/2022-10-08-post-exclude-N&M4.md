@@ -35,7 +35,6 @@ int main()
     SearchedNum_Vectpr.reserve(SearchDepth);
 
     BackTrackingSearch(SearchedNum_Vectpr, NumArea, SearchDepth, 1);
-
     cout << Result;
 }
 
