@@ -1,5 +1,6 @@
 ---
 title: "N-Queen (9663)"
+classes : wide
 categories:
   - Backjoon
 tags:
