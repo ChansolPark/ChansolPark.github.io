@@ -1,7 +1,7 @@
 ---
 title: "Replace Bracker"
 categories:
-  - Kakao
+  - Programmers
 classes : wide
 tags:
   - C++
